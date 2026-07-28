@@ -47,7 +47,7 @@ Browse trending and popular movies with an elegant dark-themed interface.
 
 > **Replace with your screenshot**
 
-<img src="assets/images/home.png" alt="Home Screen" width="260"/>
+<img src="assets/images/home.jpeg" alt="Home Screen" width="260"/>
 
 ---
 
@@ -57,7 +57,7 @@ Search any movie instantly with real-time API integration.
 
 > **Replace with your screenshot**
 
-<img src="assets/images/search.png" alt="Search Screen" width="260"/>
+<img src="assets/images/search.jpeg" alt="Search Screen" width="260"/>
 
 ---
 
@@ -67,7 +67,7 @@ View complete information about a movie including ratings, genres, overview, run
 
 > **Replace with your screenshot**
 
-<img src="assets/images/details.png" alt="Details Screen" width="260"/>
+<img src="assets/images/details.jpeg" alt="Details Screen" width="260"/>
 
 ---
 
