@@ -254,20 +254,6 @@ Or simply scan the QR code using **Expo Go** on your mobile device.
 
 ---
 
-# 📸 Adding Screenshots
-
-Place your screenshots inside the following directory:
-
-```text
-assets/
-└── readme/
-    ├── banner.png
-    ├── home.png
-    ├── search.png
-    └── details.png
-```
-
-The README will automatically display them.
 
 ---
 
@@ -283,16 +269,6 @@ The README will automatically display them.
 - 🔔 Movie Release Notifications
 - 📺 TV Shows Support
 - 🎬 Personalized Recommendations
-
----
-
-# 👨‍💻 Author
-
-**Your Name**
-
-GitHub: https://github.com/your-github-username
-
-LinkedIn: https://linkedin.com/in/your-linkedin
 
 ---
 
