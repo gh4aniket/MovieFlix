@@ -6,7 +6,6 @@ A modern cross-platform movie discovery application built with **React Native**,
 
 <img src="assets/icons/logo.png" alt="MovieFlix Banner" />
 
-<br/>
 
 <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React Native"/>
 <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo"/>
@@ -16,7 +15,6 @@ A modern cross-platform movie discovery application built with **React Native**,
 
 </div>
 
----
 
 # 📋 Table of Contents
 
