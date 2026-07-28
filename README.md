@@ -4,7 +4,7 @@
 
 A modern cross-platform movie discovery application built with **React Native**, **Expo**, **TypeScript**, **NativeWind**, **TMDB API**, and **Appwrite**.
 
-<img src="assets/readme/banner.png" alt="MovieFlix Banner" />
+<img src="assets/icons/logo.png" alt="MovieFlix Banner" />
 
 <br/>
 
