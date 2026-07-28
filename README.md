@@ -29,7 +29,6 @@ A modern cross-platform movie discovery application built with **React Native**,
 
 
 # 🤖 Introduction
-
 **MovieFlix** is a modern cross-platform movie discovery application that enables users to explore trending movies, search through thousands of titles, view comprehensive movie details, and save their favorite movies for later viewing.
 
 Powered by the **TMDB API**, MovieFlix delivers real-time movie information including ratings, genres, release dates, runtime, production companies, and more. Search analytics are stored using **Appwrite**, allowing the application to generate a dynamic trending movies section based on user activity. Built with **Expo Router**, **TypeScript**, and **NativeWind**, MovieFlix offers a smooth, responsive, and visually appealing experience on both Android and iOS.
