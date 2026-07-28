@@ -27,7 +27,6 @@ A modern cross-platform movie discovery application built with **React Native**,
 - [Running the Project](#-running-the-project)
 - [Future Enhancements](#-future-enhancements)
 
----
 
 # 🤖 Introduction
 
